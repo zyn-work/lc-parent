@@ -1,0 +1,4 @@
+# 项目排除路径
+/lc-common/common-service/target/
+/lc-manager/target/
+/lc-model/target/
